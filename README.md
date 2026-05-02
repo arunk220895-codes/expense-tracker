@@ -43,7 +43,7 @@ A simple full-stack MERN (MongoDB, Express, React, Node.js) application to track
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/mern-expense-tracker.git
+git clone https://github.com/arunk220895-codes/expense-tracker.git
 cd mern-expense-tracker
 ```
 
