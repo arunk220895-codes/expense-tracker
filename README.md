@@ -81,13 +81,6 @@ npm start
 
 ---
 
-## 🌐 API Endpoints (Example)
-
-- GET /expenses → Get all expenses
-- POST /expenses → Add new expense
-
----
-
 ## 📸 Screenshots
 
 ## Refer "expense_tracker_project_screenshot.pmg"
@@ -103,6 +96,10 @@ npm start
 ## 🧑‍💻 Author
 
 ## Arun Kumar
+
+## Github profile
+## https://github.com/arunk220895-codes/
+
 
 ## 📄 License
 
